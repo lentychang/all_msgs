@@ -1,4 +1,5 @@
 string dataDir
 string filename
+float32 nonPlnPntRatio
 ---
 bool success
