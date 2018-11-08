@@ -62,6 +62,7 @@ add_service_files(
   srv_getScenePcd.srv
   srv_matching.srv
   srv_preprocess.srv
+  srv_recogSrv.srv
 )
 
 ## Generate actions in the 'action' folder
