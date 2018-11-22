@@ -1,5 +1,5 @@
-std_msgs/Header headers
-string modelList
-geometry_msgs/Pose pose
+string modelName
+geometry_msgs/PoseStamped stampedPose
+bool is_loc_grasp
 ---
 bool success
